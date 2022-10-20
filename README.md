@@ -1,5 +1,5 @@
 👋 Hi, welcome to my profile.
-- 🌱 I’m currently learning Javascript, HTML, CSS and C#.
+- 🌱 Front-end developer. Knowledge in HTML, CSS, JS, REACT, C#, .NET
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 My email is karlasanchez0424@gmail.com
 
