@@ -1,6 +1,5 @@
 👋 Hi, welcome to my profile.
-- 🌱 Front-end developer. Knowledge in HTML, CSS, JS, REACT.JS
-- 💞️ I’m looking to collaborate on open source projects
+- 🌱 Front-end developer. Knowledge in HTML, CSS, JS, REACT.JS, C#, NETCORE.
 - 📫 My email is karlasanchez0424@gmail.com
 
 <!---
