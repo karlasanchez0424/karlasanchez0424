@@ -1,6 +1,6 @@
 👋 Hi, welcome to my profile.
 - 🌱 Front-end developer.
-- 📫 My email is karlasanchez0424@gmail.com
+- 📫 My email: karlasanchez0424@gmail.com
 
 <!---
 karlasanchez0424/karlasanchez0424 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
