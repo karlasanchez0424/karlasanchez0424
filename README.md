@@ -1,5 +1,5 @@
 👋 Hi, welcome to my profile.
-- 🌱 Front-end developer. Knowledge in HTML, CSS, JS, REACT.JS, C#, NETCORE.
+- 🌱 Front-end developer.
 - 📫 My email is karlasanchez0424@gmail.com
 
 <!---
