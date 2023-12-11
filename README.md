@@ -1,5 +1,4 @@
 👋 Hi, welcome to my profile.
-- 🌱 Front-end developer.
 - 📫 My email: karlasanchez0424@gmail.com
 
 <!---
